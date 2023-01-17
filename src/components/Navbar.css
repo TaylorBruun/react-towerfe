@@ -1,0 +1,19 @@
+nav{
+    background-color: rgba(255, 255, 255, .1); 
+    border-bottom-left-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+
+*{
+    color: rgb(223, 243, 255);
+}
+
+a{
+    color: #e9f0ff !important;
+    text-decoration: none;
+}
+
+a:hover{
+    opacity: .6;
+    text-decoration: underline !important;
+}
